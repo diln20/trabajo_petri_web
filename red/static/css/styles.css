@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 
-body {
+/* body {
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -14,7 +14,7 @@ body {
 
 body .cybr-btn+.cybr-btn {
     margin-top: 2rem;
-}
+} */
 
 .cybr-btn {
     --primary: hsl(var(--primary-hue),
