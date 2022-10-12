@@ -76,7 +76,7 @@ class Arc:
         #print("matriz de entradas: ")
         # print()
         for tr in transitions_input:
-            # print(tr)
+            # print(tract)
             for i in range(m):
                 for j in range(n):
                     if tr.transitio == transitions[i] and tr.place == lugares[j].nombre and tr.weight >= 1:
